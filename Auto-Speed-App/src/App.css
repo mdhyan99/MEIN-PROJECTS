@@ -16,7 +16,7 @@ body {
 }
 
 .car {
-  background-color: rgb(159, 26, 26);
+  background-color: rgb(249, 240, 240);
   display: flex;
   flex-direction: column;
   align-items: center;
